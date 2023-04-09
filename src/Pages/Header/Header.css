@@ -1,0 +1,19 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    backdrop-filter: blur(4.6px);
+}
+
+.navbar-brand {
+    font-weight: 700;
+    font-size: 25px;
+    color: purple !important;
+}
+
+.active {
+    font-size: 17px;
+    font-weight: 500;
+    color: rgb(227, 132, 227) !important;
+}
